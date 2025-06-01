@@ -1,1 +1,1 @@
-Initial version
+Stash and switch branch example
