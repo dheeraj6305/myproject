@@ -1,0 +1,10 @@
+Experiment 10: Git log queries
+
+1. Last five commits:
+3b5b9b3 Third commit in source-branch
+fca6822 Second commit in source-branch
+250bf26 First commit in source-branch
+2278548 Cleaned up experiment-8 directory
+466191c Removed submodule reference for experiment-8
+
+2. Commits by JohnDoe in 2023:
